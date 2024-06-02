@@ -9,11 +9,15 @@ command-line or GUI-based application using Python, allowing
 users to create, update, and track their to-do lists
 
 TASK 2
+
+
 Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
 Perform the calculation and display the result.
 
 TASK 3
+
+
 A password generator is a useful tool that generates strong and
 random passwords for users. This project aims to create a
 password generator application using Python, allowing users to
@@ -25,8 +29,9 @@ generate a password of the specified length.
 Display the Password: Print the generated password on the screen.
 
 Rock-Paper-Scissors Game
-
 TASK 4
+
+
 User Input: Prompt the user to choose rock, paper, or scissors.
 Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
 Game Logic: Determine the winner based on the user's choice and the computer's choice.
